@@ -1,0 +1,22 @@
+{
+  "name": "bunpress",
+  "version": "0.1.0",
+  "description": "A bun server with an ExpressJS-like syntax",
+  "module": "index.ts",
+  "main": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "scripts": {
+    "start": "bun index.ts",
+    "dev": "bun --hot index.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+
+  },
+  "creator": "Rach Pradhan"
+}
