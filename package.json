@@ -1,5 +1,6 @@
 {
   "name": "bunpress",
+  "github":"https://github.com/justrach/bunpress",
   "version": "0.1.0",
   "description": "A bun server with an ExpressJS-like syntax",
   "module": "index.ts",
